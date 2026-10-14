@@ -49,6 +49,8 @@ def main():
         print("Resultado:", multiplicar(a, b))
     elif operacion == "/":
         print("Resultado:", dividir(a, b))
+    else:
+        print("Operación no válida. Usa +, -, * o /")
 
 
 if __name__ == "__main__":
