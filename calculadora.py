@@ -27,7 +27,7 @@ def main():
     if operacion == "+":
         print("Resultado:", sumar(a, b))
     elif operacion == "-":
-        print("Resultado:", restar(b, a))
+        print("Resultado:", restar(a, b))
     elif operacion == "*":
         print("Resultado:", multiplicar(a, b))
     elif operacion == "/":
