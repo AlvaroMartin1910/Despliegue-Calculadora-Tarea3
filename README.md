@@ -66,3 +66,7 @@ Este proyecto se desarrolla en equipo siguiendo Gitflow:
 
 \- Cada cambio debe tener una Issue asociada y entrar mediante un Pull Request, revisado por otro compañero.
 
+## Documentación
+
+- [Guía de uso](docs/uso.md)
+- [Guía de colaboración](docs/colaboracion.md)
