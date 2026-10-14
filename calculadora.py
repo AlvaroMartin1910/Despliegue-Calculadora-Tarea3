@@ -1,4 +1,4 @@
-"""Calculadora sencilla de consola."""
+"""Calculadora sencilla de consola con validación de datos."""
 
 
 def sumar(a, b):
@@ -20,8 +20,23 @@ def dividir(a, b):
 def main():
     print("=== Calculadora ===")
     print("Operaciones disponibles: +  -  *  /")
-    a = float(input("Primer número: "))
-    b = float(input("Segundo número: "))
+
+    # Validación para el primer número (a)
+    while True:
+        try:
+            a = float(input("Primer número: "))
+            break  # Si la conversión es exitosa, sale del bucle
+        except ValueError:
+            print("Error: Las letras no son un tipo de dato válido. Por favor, introduce solo números.")
+
+    # Validación para el segundo número (b)
+    while True:
+        try:
+            b = float(input("Segundo número: "))
+            break  # Si la conversión es exitosa, sale del bucle
+        except ValueError:
+            print("Error: Las letras no son un tipo de dato válido. Por favor, introduce solo números.")
+
     operacion = input("Operación: ")
 
     if operacion == "+":
