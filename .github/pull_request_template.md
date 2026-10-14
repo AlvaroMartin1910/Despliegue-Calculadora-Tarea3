@@ -1,40 +1,20 @@
-\## Descripción del cambio
-
+## Descripción del cambio
 <!-- Explica qué has cambiado y por qué -->
 
+## Tipo de cambio
+- [ ] Corrección de error
+- [ ] Nueva funcionalidad
+- [ ] Mejora
+- [ ] Documentación
 
-
-\## Tipo de cambio
-
-\- \[ ] Corrección de error
-
-\- \[ ] Nueva funcionalidad
-
-\- \[ ] Mejora
-
-\- \[ ] Documentación
-
-
-
-\## Incidencia relacionada
-
+## Incidencia relacionada
 Closes #
 
+## Comprobaciones realizadas
+- [ ] He probado el cambio en local
+- [ ] El programa sigue funcionando como antes
+- [ ] He actualizado la documentación si hacía falta
+- [ ] He trabajado en una rama independiente
 
-
-\## Comprobaciones realizadas
-
-\- \[ ] He probado el cambio en local
-
-\- \[ ] El programa sigue funcionando como antes
-
-\- \[ ] He actualizado la documentación si hacía falta
-
-\- \[ ] He trabajado en una rama independiente
-
-
-
-\## Información adicional
-
+## Información adicional
 <!-- Capturas, dudas para quien revise, etc. -->
-
