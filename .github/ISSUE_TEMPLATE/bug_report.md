@@ -36,5 +36,15 @@ assignees: ''
 
 
 
+\## Entorno
+
+\- Sistema operativo:
+
+\- Versión de Python:
+
+\- Versión de la aplicación:
+
+
+
 \## Información adicional
 
